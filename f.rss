@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Angelfish Cay #5</title>
+        <link>https://angelfishcay5.godaddysites.com</link>
+        <description>Angelfish Cay #5</description>
+        <lastBuildDate>Thu, 07 Sep 2023 17:26:19 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Angelfish Cay #5</generator>
+        <atom:link href="https://angelfishcay5.godaddysites.com/f" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hurricane Preparedness]]></title>
+            <link>https://angelfishcay5.godaddysites.com/f/hurricane-preparedness</link>
+            <guid>https://angelfishcay5.godaddysites.com/f/hurricane-preparedness</guid>
+            <pubDate>Thu, 07 Sep 2023 17:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/ba5c075e-ae71-432f-9270-908fd8568a94/Screenshot_2023-09-07_11-33-43.png"/><p>Its that time of year again, and the tropics are heating up. Stay informed with your trusted weather sources for potential impacts so you can take these important steps to secure our home at the Reef.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
